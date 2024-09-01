@@ -48,7 +48,7 @@ Media framing, which refers to how issues are portrayed by the media, affects au
 
 ![openai](/assets/images/openai.jpeg)
 
-### <a href="https://drive.google.com/file/d/1tKDzIHqGtGt55SDYLdv3jxlKre3U3vMQ/view?usp=drive_link" target="_blank">Examining Learning Outcomes from the Use of GenAI in Educational Contexts</a>
+### <a href="https://drive.google.com/file/d/1pcHO7eAJxmDy9l9ed8XO98vnIBYeMYhi/view?usp=sharing" target="_blank">Examining Learning Outcomes from the Use of GenAI in Educational Contexts</a>
 
 Generative AI (GenAI) has become a valuable tool in education. However, concerns have been raised about its potential negative impact on students’ critical thinking and memory. Past metacognitive research has found that easier access to information often results in reduced effort to memorise it. This study explores whether metacognitive findings made prior to the advent of GenAI hold true in this modern context, by using focus groups to examine students' perceptions and usage of this technology.
 
