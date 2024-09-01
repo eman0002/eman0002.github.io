@@ -1,7 +1,7 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: Emanuel
+tagline: (portfolio)
+url: https://eman0002.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -33,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Emanuel Lim
+  url: https://eman0002.github.io
+  email: eman0002@e.ntu.edu.sg
 
 # Custom vars
 version: 3.0.0
